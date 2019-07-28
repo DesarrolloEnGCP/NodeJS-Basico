@@ -4,6 +4,10 @@
 ```bash
 node --version
 ```
+Para reiniciar el tutorial puedes ejecutar el siguiente comando para borrar todo y comenzar desde cero.
+```bash
+rm -Rf testnodejs
+```
 
 ## Comprobar version de npm
 ```bash
