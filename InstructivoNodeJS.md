@@ -47,7 +47,6 @@ node index.js
 </walkthrough-spotlight-pointer>
 
 
-
 ## Copiar ejemplo de servidor web en Express.js
 Antes de continuar debemos abortar la ejecución del comando node, presionando "CTRL + C" en la consola
 ```bash
@@ -83,8 +82,10 @@ npm install express
 node index.js
 ```
 
-
 ## Navegar en nuestro sitio web
 <walkthrough-spotlight-pointer spotlightId="devshell-web-preview-button"
                                text="Abrir navegador Web en puerto 8080">
 </walkthrough-spotlight-pointer>
+
+## Detener servidor web con Express.js
+Antes de finalizar debemos abortar la ejecución del comando node, presionando "CTRL + C" en la consola
