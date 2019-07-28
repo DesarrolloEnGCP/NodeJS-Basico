@@ -46,9 +46,12 @@ node index.js
                                text="Abrir navegador Web en puerto 8080">
 </walkthrough-spotlight-pointer>
 
+
+
 ## Copiar ejemplo de servidor web en Express.js
+Antes de continuar debemos abortar la ejecución del comando node, presionando "CTRL + C" en la consola
 ```bash
-cp ../index.js .
+cp ../index-express.js ./index.js
 ```
 
 ## Abrir index.js
