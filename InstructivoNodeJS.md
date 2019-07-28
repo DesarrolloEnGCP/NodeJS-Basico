@@ -32,7 +32,7 @@ cp ../index.js .
 
 ## Abrir index.js
 <walkthrough-editor-open-file filePath="./NodeJS-Basico/testnodejs/index.js"
-                              text="index.js">
+                              text="Abrir index.js">
 </walkthrough-editor-open-file>
 
 
