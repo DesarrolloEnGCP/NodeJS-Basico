@@ -12,7 +12,7 @@ npm --version
 
 ## Crear un nuevo directorio
 ```bash
-mkdir testnodejs && cd testnodejs
+mkdir testnodejs || cd testnodejs
 ```
 
 ## Crear un nuevo proyecto
