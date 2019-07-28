@@ -21,7 +21,7 @@ npm init
 ```
 
 ## Abrir package.json
-<walkthrough-editor-open-file filePath="./testnodejs/package.json"
+<walkthrough-editor-open-file filePath="./NodeJS-Basico/testnodejs/package.json"
                               text="Abrir package.json">
 </walkthrough-editor-open-file>
 
