@@ -45,3 +45,43 @@ node index.js
 <walkthrough-spotlight-pointer spotlightId="devshell-web-preview-button"
                                text="Abrir navegador Web en puerto 8080">
 </walkthrough-spotlight-pointer>
+
+## Copiar ejemplo de servidor web en Express.js
+```bash
+cp ../index.js .
+```
+
+## Abrir index.js
+<walkthrough-editor-open-file filePath="./NodeJS-Basico/testnodejs/index.js"
+                              text="Abrir index.js">
+</walkthrough-editor-open-file>
+
+## Ejecutar servidor Web con Express.js
+```bash
+node index.js
+```
+La ejecución fallara, ya que Node.js no encuentra el modulo Express.js
+Antes de continuar debemos abortar la ejecución del comando node, presionando "CTRL + C" en la consola
+
+
+## Instalar modulo Express.js
+Antes de continuar debemos abortar la ejecución del comando node, presionando "CTRL + C" en la consola
+```bash
+npm install express
+```
+
+## Abrir package.json (ver cambios despues de instalar Express.js)
+<walkthrough-editor-open-file filePath="./NodeJS-Basico/testnodejs/package.json"
+                              text="Abrir package.json">
+</walkthrough-editor-open-file>
+
+## Ejecutar servidor Web con Express.js (con modulo cargado!)
+```bash
+node index.js
+```
+
+
+## Navegar en nuestro sitio web
+<walkthrough-spotlight-pointer spotlightId="devshell-web-preview-button"
+                               text="Abrir navegador Web en puerto 8080">
+</walkthrough-spotlight-pointer>
