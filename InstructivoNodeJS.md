@@ -45,27 +45,3 @@ node index.js
 <walkthrough-spotlight-pointer spotlightId="devshell-web-preview-button"
                                text="Abrir navegador Web en puerto 8080">
 </walkthrough-spotlight-pointer>
-
-## Ver Contenedores (solo los en ejecución)
-```bash
-docker container ls
-```
-
-## Ver Imagenes Descargadas (ahora tenemos dos)
-```bash
-docker image ls
-```
-
-## Detener el contenedor (hola-web)
-```bash
-docker stop hola-web
-```
-
-## Volver a Navegar en nuestro sitio web (falla, el contenedor ya no esta en ejecución)
-<walkthrough-spotlight-pointer spotlightId="devshell-web-preview-button"
-                               text="Abrir navegador Web en puerto 8080">
-</walkthrough-spotlight-pointer>
-
-
-
-
